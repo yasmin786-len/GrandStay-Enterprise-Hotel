@@ -1,0 +1,1 @@
+import { Link } from 'react-router-dom';export default function NotFoundPage(){return <div className="empty-state"><h2>Page not found</h2><p>The requested hotel ERP page does not exist.</p><Link className="button-link" to="/">Return to dashboard</Link></div>}
