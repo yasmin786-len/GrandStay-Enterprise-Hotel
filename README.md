@@ -1,7 +1,7 @@
 # GrandStay Enterprise Hotel ERP — MERN Stack
 
 A runnable multi-property hotel ERP starter built with **MongoDB, Express 5, React 19, Node.js and TypeScript**. It includes a three-level role hierarchy, granular API permissions, property/department data isolation, audit logs, seed data and operational workflows.
-![image](thumbnIL.png)
+
 
 ## Included modules
 
